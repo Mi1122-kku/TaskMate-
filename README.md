@@ -1,40 +1,39 @@
-                                                                " تطبيق TaskMate "
+                      "TaskMate app"
 
-تهدف تطبيق TaskMate إلى تسهيل إدارة المهام اليومية للمستخدمين وزيادة إنتاجيتهم. يمكن للمستخدمين تحسين تنظيمهم الشخصي وزيادة كفاءتهم في إدارة المهام.
+TaskMate aims to make it easier for users to manage daily tasks and increase their productivity. Users can improve their personal organization and increase their efficiency in task management.
 
-المتطلبات:
-- يعمل التطبيق على نظامي التشغيل iOS وAndroid.
-- يتطلب تشغيل التطبيق جهاز جوال.
-- تطوير التطبيق يتضمن استخدام Android Studio ولغة برمجة Java.
-- البرنامج يحتاج إلى مكتبات espresso-core و recyclerview.
+Requirements:
+- The application works on iOS and Android operating systems.
+- The application requires a mobile device to operate.
+- Application development includes the use of Android Studio and the Java programming language.
+- The program requires the espresso-core and recyclerview libraries.
 
-الوظائف:
-- إنشاء وتنظيم قوائم المهام والمهام الفردية.
-- تحديد المهام وتحديد مواعيدها لضمان إتمامها في الوقت المحدد.
-- حذف المهام السابقة أو تعديلها في أي وقت.
+Jobs:
+- Create and organize to-do lists and individual tasks.
+- Identify and schedule tasks to ensure they are completed on time.
+- Delete or modify previous tasks at any time.
 
-تعليمات التثبيت:
-1. تحميل التطبيق.
-2. تثبيت التطبيق على الجهاز.
-3. تسجيل الدخول إلى التطبيق.
-4. إضافة المهام وتنظيمها.
+Installation instructions:
+1. Download the application.
+2. Install the application on the device.
+3. Log in to the application.
+4. Add and organize tasks.
 
-دليل الاستخدام:
-- شاشة رئيسية تعرض قوائم المهام.
-- لإضافة مهمة جديدة، انقر على "إضافة مهمة" وأدخل التفاصيل اللازمة.
-- لتحديد المهام، اختر "تحديد".
-- لحذف مهمة، اختر المهمة ثم اضغط على زر الحذف.
-- لتعديل المهمة، حدد المهمة واضغط على زر التعديل.
+User's Manual:
+- A main screen that displays to-do lists.
+- To add a new task, click on “Add Task” and enter the necessary details.
+- To select tasks, choose “Select”.
+- To delete a task, select the task and press the Delete button.
+- To edit the task, select the task and press the edit button.
 
-يمكن للمستخدمين باستخدام TaskMate إنشاء قوائم مهام وتنظيمها بشكل فعال، ويمكنهم تحديد المهام الهامة وإجراء التعديلات الضرورية، كما يمكنهم تتبع تقدم المهام ورؤية الإحصائيات حول الإنجازات لقياس وتحسين أدائهم. 
+With TaskMate, users can effectively create and organize to-do lists, can identify important tasks and make necessary adjustments, and can track task progress and see statistics about accomplishments to measure and improve their performance.
 
-اسم المساهم:
-- منار ابراهيم
-- ابرار هادي 
-- رحمة حسن
-- فاطمة ابراهيم
-- ريماز سعد
+Shareholder name:
+- Manar Ibrahim
+- Abrar Hadi
+- Rahma Hassan
+- Fatima Ibrahim
+- Remaz Saad
 
-للتواصل معنا:
-
+to contact us:
 
