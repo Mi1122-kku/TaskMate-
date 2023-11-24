@@ -29,13 +29,19 @@ User's Manual:
 With TaskMate, users can effectively create and organize to-do lists, can identify important tasks and make necessary adjustments, and can track task progress and see statistics about accomplishments to measure and improve their performance.
 
 Shareholder name:
+
 •	ابرار هادي 
+
 •	منار ابراهيم
+
 •	ريماز سعد
+
 •	فاطمة ابراهيم
+
 •	رحمة حسن
 to contact us:
 ابرار هادي 
+
 444816312@kku.edu.sa
 منار ابراهيم
 ‏444808435@kku.edu.sa
