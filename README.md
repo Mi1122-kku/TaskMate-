@@ -39,17 +39,24 @@ Shareholder name:
 •	فاطمة ابراهيم
 
 •	رحمة حسن
-to contact us:
-ابرار هادي 
 
+to contact us:
+
+ابرار هادي 
 444816312@kku.edu.sa
+
 منار ابراهيم
 ‏444808435@kku.edu.sa
+
+
 ريماز سعد
 444816072@kku.edu.sa
+
 فاطمة ابراهيم
 ‏444816548@kku.edu.sa
+
 رحمة حسن
 ‏444816669@kku.edu.sa
+
 
 
