@@ -1,4 +1,5 @@
                       "TaskMate app"
+This is a an exercise to apply some changes to do project
 
 TaskMate aims to make it easier for users to manage daily tasks and increase their productivity. Users can improve their personal organization and increase their efficiency in task management.
 
